@@ -30,6 +30,8 @@
       'lib/internal/bootstrap/cache.js',
       'lib/internal/bootstrap/loaders.js',
       'lib/internal/bootstrap/node.js',
+      'lib/internal/esm.js',
+      'lib/internal/esm/loader.js',
       'lib/async_hooks.js',
       'lib/assert.js',
       'lib/buffer.js',
